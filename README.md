@@ -1,0 +1,1 @@
+# funkcyjnePakiet1
