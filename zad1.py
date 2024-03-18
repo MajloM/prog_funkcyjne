@@ -1,4 +1,6 @@
-def main():
-    return print(2)
+def apply_twice(func, value):
+    return func(func(value))
 
-main()
+
+result = apply_twice(lambda x: x + 2, 10)
+print(result)
