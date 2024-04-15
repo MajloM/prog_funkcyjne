@@ -1,6 +1,6 @@
 def analyze_data(data):
     if isinstance(data, list):
-        print("Przetwarzam listę danych:", data)
+        print("Przetwarzam liste danych:", data)
 
     elif isinstance(data, tuple):
         print("Przetwarzam krotkę danych:", data)
