@@ -5,6 +5,6 @@ def suma_parzystych(lista):
             suma += liczba
     return suma
 
-lista_liczb = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista_liczb = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
 print(suma_parzystych(lista_liczb))
